@@ -1,3 +1,5 @@
 THis is the new feature 4 created in feature/test branch 
 to check wheather branch merging happens
-this remote change from feature/test branch 
+
+i making a change here local => for merge conflict
+
