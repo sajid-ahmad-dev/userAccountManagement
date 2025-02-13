@@ -1,2 +1,3 @@
 THis is the new feature 4 created in feature/test branch 
 to check wheather branch merging happens
+i making a change here remotely => for merge conflict
